@@ -1,0 +1,15 @@
+# Track only the selected project directories.
+*
+!.gitignore
+!code/
+!code/**
+!configclass/
+!configclass/**
+!loss/
+!loss/**
+!plots/
+!plots/**
+!slurm/
+!slurm/**
+!tools/
+!tools/**
